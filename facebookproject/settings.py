@@ -25,7 +25,7 @@ SECRET_KEY = 'x+x)8-bjdp&q-r%^*bpm#t0s!scht2k#)y0n%lh+k!kjnfwh0w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dilna-heroku.herokuapp.com']
 
 
 # Application definition
